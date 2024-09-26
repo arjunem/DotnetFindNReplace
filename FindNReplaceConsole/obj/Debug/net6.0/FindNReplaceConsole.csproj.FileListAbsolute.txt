@@ -1,0 +1,17 @@
+D:\Learn\DotnetFindNReplace\FindNReplaceConsole\bin\Debug\net6.0\FindNReplaceConsole.exe
+D:\Learn\DotnetFindNReplace\FindNReplaceConsole\bin\Debug\net6.0\FindNReplaceConsole.deps.json
+D:\Learn\DotnetFindNReplace\FindNReplaceConsole\bin\Debug\net6.0\FindNReplaceConsole.runtimeconfig.json
+D:\Learn\DotnetFindNReplace\FindNReplaceConsole\bin\Debug\net6.0\FindNReplaceConsole.dll
+D:\Learn\DotnetFindNReplace\FindNReplaceConsole\bin\Debug\net6.0\FindNReplaceConsole.pdb
+D:\Learn\DotnetFindNReplace\FindNReplaceConsole\obj\Debug\net6.0\FindNReplaceConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\DotnetFindNReplace\FindNReplaceConsole\obj\Debug\net6.0\FindNReplaceConsole.AssemblyInfoInputs.cache
+D:\Learn\DotnetFindNReplace\FindNReplaceConsole\obj\Debug\net6.0\FindNReplaceConsole.AssemblyInfo.cs
+D:\Learn\DotnetFindNReplace\FindNReplaceConsole\obj\Debug\net6.0\FindNReplaceConsole.csproj.CoreCompileInputs.cache
+D:\Learn\DotnetFindNReplace\FindNReplaceConsole\obj\Debug\net6.0\FindNReplaceConsole.dll
+D:\Learn\DotnetFindNReplace\FindNReplaceConsole\obj\Debug\net6.0\refint\FindNReplaceConsole.dll
+D:\Learn\DotnetFindNReplace\FindNReplaceConsole\obj\Debug\net6.0\FindNReplaceConsole.pdb
+D:\Learn\DotnetFindNReplace\FindNReplaceConsole\obj\Debug\net6.0\FindNReplaceConsole.genruntimeconfig.cache
+D:\Learn\DotnetFindNReplace\FindNReplaceConsole\obj\Debug\net6.0\ref\FindNReplaceConsole.dll
+D:\Learn\DotnetFindNReplace\FindNReplaceConsole\bin\Debug\net6.0\CsvHelper.dll
+D:\Learn\DotnetFindNReplace\FindNReplaceConsole\obj\Debug\net6.0\FindNReplaceConsole.csproj.AssemblyReference.cache
+D:\Learn\DotnetFindNReplace\FindNReplaceConsole\obj\Debug\net6.0\FindNReplaceConsole.csproj.CopyComplete
