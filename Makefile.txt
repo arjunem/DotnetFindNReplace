@@ -1,4 +1,4 @@
- Define the name of your executable
+# Define the name of your executable
 TARGET = FindNReplaceConsole
 
 # Define the source files
