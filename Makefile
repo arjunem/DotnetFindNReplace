@@ -11,8 +11,8 @@ OUTPUT_DIR = bin
 all: build run
 
 # Run target
-run: build
-	dotnet FindNReplaceConsole.dll
+run: 
+	dotnet run --project ./FindNReplaceConsole/FindNReplaceConsole.csproj
 
 # Clean target
 clean:
